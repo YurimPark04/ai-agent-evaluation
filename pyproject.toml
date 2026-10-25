@@ -8,6 +8,7 @@ dependencies = [
     "ipykernel>=7.4.0",
     "langchain>=1.4.7",
     "langchain-community>=0.4.2",
+    "langchain-openai>=1.7.2",
     "nest-asyncio>=1.6.0",
     "pandas>=3.1.0",
     "pip>=26.2.2",
